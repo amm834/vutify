@@ -1,5 +1,8 @@
 # test
 
+## Demo Link
+https://vuetify-deploy-test.netlify.app/
+
 ## Project setup
 ```
 npm install
