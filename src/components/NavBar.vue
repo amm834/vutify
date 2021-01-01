@@ -58,7 +58,7 @@
    <v-list dense>
     <v-subheader>Menu</v-subheader>
     <v-list-item-group
-     v-model="selectedItem"
+     
      >
      <v-list-item
       v-for="list in lists"
